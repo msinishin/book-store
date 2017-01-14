@@ -1,0 +1,9 @@
+tmp/*
+tmp/**/*
+coverage/**/*
+backups/**/*
+.DS_Store
+.idea/*
+*.swp
+*.swo
+*.swn
